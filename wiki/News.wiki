@@ -1,4 +1,4 @@
-#Last project news
+#summary Last project news
 
 This page will contain news
 
