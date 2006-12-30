@@ -10,4 +10,4 @@ Why was this project made ? [ProjectGoals]
 
 Welcome to the Wiki !
 
-(Formatting : *bold* _italic_ , headers using equals signs, paragraphs, lists, and [Links] )
+(Wiki Formatting : http://code.google.com/p/support/wiki/WikiSyntax )
