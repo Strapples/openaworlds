@@ -6,6 +6,7 @@ Why was this project made ? [ProjectGoals]
 
 = Pages =
 - [News] for the OpenAW project news
+- Check our [http://groups.google.com/group/openaworld-discussion Discussions forum] !
 
 
 Welcome to the Wiki !
