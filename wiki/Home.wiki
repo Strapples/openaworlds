@@ -1,15 +1,17 @@
-#summary One-sentence summary of this page.
+#summary Home of the Wiki
 
 = Introduction =
 
-Add your content here.
+Why was this project made ? [ProjectGoals]
 
 
-= Details =
+= Pages =
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
-Welcome
+Welcome to the Wiki !
+
+(Formatting : *bold* _italic_ , headers using equals signs, paragraphs, lists, and [Links] )
