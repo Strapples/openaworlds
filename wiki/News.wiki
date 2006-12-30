@@ -1,10 +1,11 @@
 #summary Last project news
 
-------
+Return to [Home]
 
-loll
+== 30 December 2007 ==
+We just created the project. Download and SVN will be availlable soon !
 
-------
+== -- ==
 
 Return to [Home]
 
